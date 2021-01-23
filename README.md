@@ -1,5 +1,5 @@
 [![DATA GITHUB DUMAI-991](https://github-readme-stats.vercel.app/api?username=Dumai-991)](https://github.com/anuraghazra/github-readme-stats)
-(https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dumai-991&show_icons=true&theme=radical)
 ### Hi there 👋
 
 <!--
