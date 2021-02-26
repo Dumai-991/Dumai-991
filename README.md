@@ -1,10 +1,11 @@
-[![DATA GITHUB DUMAI-991](https://github-readme-stats.vercel.app/api?username=Dumai-991)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dumai-991&show_icons=true&theme=radical)
-### Hi there 👋
-### 📌 No WhatSapp [ 083143565479 ]
-### 📌 Jangan Lupa DiFollow🙏🙏
-### 📌 Jangan Lupa DiKelik Star Tiap Github Saya 🙏🙏
-![WhatsApp](https://api.whatsapp.com/send/?phone=%2B6283143565470&text&app_absent=0)]
+# <h3><a href="https://wa.me/6283143565470">Admin (WA)</a></h3>
+<h4>PythonSytemX @By Mr.Risky</h4>
+
+<h6>KAMI TIDAK TANGGUNG JAWAB ATAS TERJADINYA MASAKAH TERHADAP APAPUN ITU!!<br>
+</h6>
+</h5>WE ARE NOT RESPONSIBLE FOR ANY COURSE !! <br>
+[PythonSystemX]</h6>
+
 
 
 
