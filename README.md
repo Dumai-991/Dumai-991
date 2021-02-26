@@ -1,6 +1,12 @@
 [![DATA GITHUB DUMAI-991](https://github-readme-stats.vercel.app/api?username=Dumai-991)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dumai-991&show_icons=true&theme=radical)
 ### Hi there 👋
+### 📌 No WhatSapp [ 083143565479 ]
+### 📌 Jangan Lupa DiFollow🙏🙏
+### 📌 Jangan Lupa DiKelik Star Tiap Github Saya 🙏🙏
+![WhatsApp](https://api.whatsapp.com/send/?phone=%2B6283143565470&text&app_absent=0)]
+
+
 
 <!--
 **Dumai-991/Dumai-991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
