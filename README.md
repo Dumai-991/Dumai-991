@@ -6,9 +6,6 @@
 </h5>WE ARE NOT RESPONSIBLE FOR ANY COURSE !! <br>
 [PythonSystemX]</h6>
 
-<script type="text/javascript" src="https://www.counters-free.net/count/8gqk"></script><br>
- <a href='http://besucherzaehler.co'>kostenlose Besucherzähler</a> <script type='text/javascript' src='https://whomania.com/ctr?id=5609010896ac92c8227cabb1bc7610892e696fbe'></script>
-
 
 <!--
 **Dumai-991/Dumai-991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
