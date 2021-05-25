@@ -1,24 +1,17 @@
-# <h3><a href="https://wa.me/6283143565470">Admin (WA)</a></h3>
-<h4>PythonSytemX @By Mr.Risky</h4>
+### Information
+Hallo Om :)
+Jangan Lupa DiKetik Tombol Follownya Iya Om Plis..
+Dan Jangan Lupa DiKetik Tombol Star Iya Om !!
 
-<h6>KAMI TIDAK TANGGUNG JAWAB ATAS TERJADINYA MASAKAH TERHADAP APAPUN ITU!!<br>
-</h6>
-</h5>WE ARE NOT RESPONSIBLE FOR ANY COURSE !! <br>
-[PythonSystemX]</h6>
+### Akun Sosila
+* [FACEBOOK](https://m.facebook.com/ilovexnxx)
+* [WHATSAPP](https://wa.me/6283143565470?text=Assalamualaikum+Warohmatullahi+wabaokatuh)
+* [GROUPWA](https://)
+* ```6283143565470```
 
-
-<!--
-**Dumai-991/Dumai-991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Donasi
+* Dana : ```083143565470```
+* Gopay: ```083143565470```
+* Ovo : ```083143565470```
+* Pulsa : ```083143565470```
+###### Semoga Yang Donasi Panjang Umur, DiMudahkan Segala Urusan :)
