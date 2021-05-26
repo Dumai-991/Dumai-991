@@ -1,3 +1,6 @@
+###### Terima Kasih Telah Mengunjung Github Saya :)
+![](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
+
 ### Information
 Hallo Om :)
 Jangan Lupa DiKetik Tombol Follownya Iya Om Plis..
