@@ -18,8 +18,9 @@ Dan Jangan Lupa DiKetik Tombol Star Iya Om !!
 * Ovo : ```083143565470```
 * Pulsa : ```083143565470```
 ###### Semoga Yang Donasi Panjang Umur, DiMudahkan Segala Urusan :)
-<p align="center">
+
 #### I LOVE ZERO TWO
+<p align="center">
 <img src="https://i.giphy.com/media/OOSbqEBoTmA2OUN3pO/giphy.webp">
 </p>
 <p align="center">
