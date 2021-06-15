@@ -9,9 +9,9 @@ Dan Jangan Lupa DiKetik Tombol Star Iya Om !!
 ### Akun Sosila And Donasi
 * <a href="https://m.facebook.com/llovexnxx"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="20" height="20">**Facebook**</a>
 * <a href="https://wa.me/6283143565470?text=Assalamualaikum+Warohmatullahi+wabaokatuh"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).png" alt="alt text" width="20" height="20">**WhatsApp**</a>
-* <a href=""><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.jpeg" alt="alt text" width="20" height="20">**Ovo**</a>
-* <a href=""><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.jpeg" alt="alt text" width="20" height="20">**Dana**</a>
-* <a href=""><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).jpeg" alt="alt text" width="20" height="20">**Gopay**</a>
+* <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-46-08-83.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(2).jpeg" alt="alt text" width="20" height="20">**Ovo**</a>
+* <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-33-26-40.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.jpeg" alt="alt text" width="20" height="20">**Dana**</a>
+* <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-45-13-76.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).jpeg" alt="alt text" width="20" height="20">**Gopay**</a>
 ###### :)
 
 ### Donasi
