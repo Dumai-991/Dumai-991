@@ -24,6 +24,8 @@ Dan Jangan Lupa DiKetik Tombol Star Iya Om !!
 #### I LOVE ZERO TWO
 <p align="center">
 <img src="https://i.giphy.com/media/OOSbqEBoTmA2OUN3pO/giphy.webp">
+<img src="https://media4.giphy.com/media/10YWqUivkQPeeJWD3u/giphy.webp?cid=6c09b952jhzyr4a6fxtp4m1iq0ue0m843gqvg5zy7aio42kr&rid=giphy.webp&ct=g">
+<img src="https://media2.giphy.com/media/RLJxQtX8Hs7XytaoyX/giphy.webp?cid=6c09b952c183e9a47934bb1e41e6ef32502a85be9b9fd8a5&rid=giphy.webp&ct=g">
 </p>
 <p align="center">
 
