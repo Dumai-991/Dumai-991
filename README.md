@@ -6,11 +6,13 @@ Hallo Om :)
 Jangan Lupa DiKetik Tombol Follownya Iya Om Plis..
 Dan Jangan Lupa DiKetik Tombol Star Iya Om !!
 
-### Akun Sosila
-* [FACEBOOK](https://m.facebook.com/ilovexnxx)
-* [WHATSAPP](https://wa.me/6283143565470?text=Assalamualaikum+Warohmatullahi+wabaokatuh)
-* [GROUPWA](https://)
-* ```6283143565470```
+### Akun Sosila And Donasi
+* <a href="https://m.facebook.com/llovexnxx"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="20" height="20">**Facebook**</a>
+* <a href="https://wa.me/6283143565470?text=Assalamualaikum+Warohmatullahi+wabaokatuh"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).png" alt="alt text" width="20" height="20">**WhatsApp**</a>
+* <a href=""><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.jpeg" alt="alt text" width="20" height="20">**Ovo**</a>
+* <a href=""><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.jpeg" alt="alt text" width="20" height="20">**Dana**</a>
+* <a href=""><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).jpeg" alt="alt text" width="20" height="20">**Gopay**</a>
+###### :)
 
 ### Donasi
 * Dana : ```083143565470```
