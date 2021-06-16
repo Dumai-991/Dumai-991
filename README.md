@@ -12,13 +12,6 @@ Dan Jangan Lupa DiKetik Tombol Star Iya Om !!
 * <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-46-08-83.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(2).jpeg" alt="alt text" width="20" height="20">**Ovo**</a>
 * <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-33-26-40.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.jpeg" alt="alt text" width="20" height="20">**Dana**</a>
 * <a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-45-13-76.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).jpeg" alt="alt text" width="20" height="20">**Gopay**</a>
-###### :)
-
-### Donasi
-* Dana : ```083143565470```
-* Gopay: ```083143565470```
-* Ovo : ```083143565470```
-* Pulsa : ```083143565470```
 ###### Semoga Yang Donasi Panjang Umur, DiMudahkan Segala Urusan :)
 
 #### I LOVE ZERO TWO
