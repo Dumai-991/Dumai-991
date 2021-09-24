@@ -4,6 +4,12 @@
 * **Visitor Github @DUMAI-200**
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=red)
 
+
+### Athour And Team
+1. [**WANS X GANS**](https://github.com/wansgang980)
+2. [**ZEE K WORLD**](https://github.com/ZKWorld)
+3. [**MR.RISKY**](https://github.com/Dumai-991)
+
 ### Information
 Hallo Om :)
 Jangan Lupa DiKetik Tombol Follownya Iya Om Plis..
