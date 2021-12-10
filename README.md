@@ -24,10 +24,3 @@
 <img src="https://media2.giphy.com/media/RLJxQtX8Hs7XytaoyX/giphy.webp?cid=6c09b952c183e9a47934bb1e41e6ef32502a85be9b9fd8a5&rid=giphy.webp&ct=g">
 </p>
 <p align="center">
-
-### &#x1f4c8; GitHub Stats
-<a href="https://github.com/Dumai-991/Dumai-991">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumai-991&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-<audio controls>
-<source src="https://github.com/petanikode/belajar-html/raw/master/audio/Ngoni.mp3" type="audio/mpeg">
-</audio>
