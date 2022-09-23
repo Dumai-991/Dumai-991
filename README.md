@@ -8,11 +8,11 @@
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=red)
 >
 #### ★★ TEAM PROJECT ★★
-1. [**WANS X GANS**](https://github.com/wansgang980)
-2. [**ZEE K WORLD**](https://github.com/ZKWorld)
-3. [**MR.RISKY**](https://github.com/Dumai-991)
-4. [**MR.JECCK**](https://github.com/mrjeeck)
-
+1. Jeeck X Nano
+2. Wans X Gans
+3. Xenzi Gans
+4. Zee K World
+5. **C O M I N G---S O O N**
 
 #### ★ Social Accounts And Donation Accounts ★
 <a href="https://m.facebook.com/llovexnxx"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="75" height="75"></a><a href="https://wa.me/6283893415477?text=Assalamualaikum+Warohmatullahi+wabaokatuh"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).png" alt="alt text" width="75" height="75"></a><a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-46-08-83.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(2).jpeg" alt="alt text" width="75" height="75"></a><a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-33-26-40.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.jpeg" alt="alt text" width="75" height="75"></a><a href="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/Screenshot_2021-06-15-10-45-13-76.jpg"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images%20(1).jpeg" alt="alt text" width="75" height="75"></a><a href="https://paypal.me/dumai991"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/download.jpeg" alt="alt text" width="75" height="75"></a>
