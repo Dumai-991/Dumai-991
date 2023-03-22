@@ -29,4 +29,4 @@
 <img src="https://cdn-icons-png.flaticon.com/512/888/888870.png" alt="alt text" width="75" height="75"><a>  | <img src="https://a.m.dana.id/danaweb/web/dana-meta-logo.png" alt="alt text" width="75" height="75"><a>  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Xk8qkzKUo7BZPBCFqGyGXu-6gU0R9K75ag&usqp=CAU" alt="alt text" width="75" height="75"><a>  | <img src="https://kamuspromo.com/wp-content/uploads/2023/02/img.png" alt="alt text" width="75" height="75"><a> 
    </details>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=10000&color=F70000&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang%2C+Jangan+Lupa+DiFollow+My+GitHub%F0%9F%98%87%F0%9F%98%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Koulen&size=23&pause=1000&color=F70000&center=true&width=550&lines=SELAMAT+DATANG+DIGITHUB+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;WELCOME+TO+GITHUB+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81)](https://git.io/typing-svg)
