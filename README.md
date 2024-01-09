@@ -1,4 +1,4 @@
-   * ![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue) • ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=red)
+   ![](https://komarev.com/ghpvc/?username=Dumai-200&base=999999999999999999&label=Visitors+Kontol&style=for-the-badge)
 
 
 
