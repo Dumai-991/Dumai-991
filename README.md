@@ -1,4 +1,9 @@
- 
+<div id="header" align="left">
+<img src="https://media3.giphy.com/media/3e0FkrAfYHiCmYugfi/giphy.gif?cid=6c09b952bvcckznksg4r6fbqiktku78b6pjwamyowg2i8jtm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="90"/>  
+ <img src="https://media.tenor.com/kIoPlZU92UcAAAA1/vapira-anime.webp" width="250"/>
+</div>
+
+
 ![](https://komarev.com/ghpvc/?username=dumai-991&base=999999&label=Visitors&style=for-the-badge)
 
 
@@ -28,5 +33,3 @@
 --|
 <img src="https://cdn-icons-png.flaticon.com/512/888/888870.png" alt="alt text" width="75" height="75"><a>  |
    </details>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Koulen&size=23&pause=1000&color=F70000&center=true&width=550&lines=SELAMAT+DATANG+DIGITHUB+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;WELCOME+TO+GITHUB+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81)](https://git.io/typing-svg)
