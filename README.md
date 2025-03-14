@@ -44,4 +44,4 @@
 
 <div align="center">
  <h1>👋SUPPORT ME </h1>
- <a href="https://www.paypal.com/paypalme/dumai991"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-eT90pyIOkKh0rRtikKx0f8FoJ_rJ80cHmvcNTpA-TUQ2lpv8t0nqP8x&s=10" width="50%"/></a>
+ <a href="https://saweria.co/Dumai991"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01c81f8c-18c9-47d7-b7ad-c04058016626_225x225.png" width="20%"/></a>
