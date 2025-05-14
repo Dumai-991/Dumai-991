@@ -27,6 +27,7 @@
 | Date of birth | 28/04/2007 | The date I wrote is indeed genuine, there is no element of fraud.
 | Country | Indonesia | -
 | School  | ELECTRIC POWER | Isn't Electricity No Coding? 😵‍💫
+| My Skills | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="25%"/> | As you can see.. My skills are only that.
  </details>
 </div>
    <details>
