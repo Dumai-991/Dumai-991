@@ -24,7 +24,7 @@
 |:------------:|:-----------------|:-------------|
 | Profile | <img src="https://avatars.githubusercontent.com/u/76860656?v=4" width="50%"/> | I took this profile when I first liked anime and was confused about what profile to make.
 | Name | My Real Name is **Rizky** | The name was originally made by my father... there was no element of fraud or making it seem like my name was fake
-| Date of birth | 28/04/2007 | The date I wrote is indeed genuine, there is no element of fraud.
+| Date of birth | ../../2007 | The date I wrote is indeed genuine, there is no element of fraud.
 | Country | Indonesia | -
 | School  | ELECTRIC POWER | Isn't Electricity No Coding? 😵‍💫
 | My Skills | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="25%"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="25%"/> | As you can see.. My skills are only that.
