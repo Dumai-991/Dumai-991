@@ -22,7 +22,7 @@
   
 |  Data  Name  | Contents Of Data | Descriptions |
 |:------------:|:-----------------|:-------------|
-| Profile | <img src="https://avatars.githubusercontent.com/u/76860656?v=4" width="50%"/> | I took this profile when I first liked anime and was confused about what profile to make.
+| Profile | <img src="https://avatars.githubusercontent.com/u/76860656?v=4" width="50%"/> | Just Bored
 | Name | My Real Name is **Rizky** | The name was originally made by my father... there was no element of fraud or making it seem like my name was fake
 | Date of birth | ../../2007 | The date I wrote is indeed genuine, there is no element of fraud.
 | Country | Indonesia | -
